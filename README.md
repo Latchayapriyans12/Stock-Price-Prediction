@@ -158,6 +158,13 @@ print(f'Actual Price: {actual_prices[-1]}')
 
 
 
+### Predictions 
+```
+Predicted Price: [1100.094]
+Actual Price: [1115.65]
+```
+
+
 
 
 ## Result
